@@ -1,8 +1,8 @@
-title: Habracho.GitHub.io
-description: Haller Javier Bracho
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-minimal
+# title: Habracho.GitHub.io
+# description: Haller Javier Bracho
+#google_analytics: 
+#show_downloads: true
+#theme: jekyll-theme-minimal
 
-gems:
-  - jekyll-mentions
+#gems:
+#  - jekyll-mentions
