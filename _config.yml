@@ -6,3 +6,5 @@
 
 #gems:
 #  - jekyll-mentions
+
+theme: jekyll-theme-minimal
