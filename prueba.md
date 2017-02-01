@@ -1,4 +1,4 @@
-<pre class=" language-python"><code class="prism  language-python"><span class="token keyword">import</span> pandas <span class="token keyword">as</span> pd
+<pre class=" language-javascript"><code class="prism  language-javascript"><span class="token keyword">import</span> pandas <span class="token keyword">as</span> pd
 </code></pre>
 <h1 id="notas-sd">Notas sd</h1>
 <h2 id="sdf">sdf</h2>
