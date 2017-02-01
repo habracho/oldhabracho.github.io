@@ -1,4 +1,4 @@
-<p><img src="https://i.imgur.com/bHEN1bp.jpg" alt="Haller"></p>
+<p><img src="https://i.imgur.com/QmebUsz.jpg" alt="Haller Javier Bracho"></p>
 <p>Hola, mi nombre es Haller Javier Bracho Hernández. Trabajo actualmente<br>
 como profesor e investigador en el Departamento de Matemáticas de la<br>
 Facultad Experimental de Ciencias en la Universidad del Zulia.</p>
