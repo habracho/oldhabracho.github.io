@@ -44,3 +44,4 @@
 asda<br>
 asda<br>
 asd</p>
+<p>\[ f(x) \]</p>
