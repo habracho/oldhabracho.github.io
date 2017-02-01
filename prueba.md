@@ -25,6 +25,21 @@
 </tbody>
 </table>
 <p>dfsdfsf sdsdf sdf</p>
+<h2 id="bitácora">Bitácora</h2>
+<table>
+<thead>
+<tr>
+<th>Fecha</th>
+<th>Actividad</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>21/01/2017</td>
+<td>asada sdasda sdasd asdasd asdas dasda sdasdasdasdasd asda sda sdas da sd</td>
+</tr>
+</tbody>
+</table>
 <p>asda<br>
 asda<br>
 asda<br>
