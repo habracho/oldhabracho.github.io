@@ -43,5 +43,5 @@
 <p>asda<br>
 asda<br>
 asda<br>
-asd</p>
+asd \(f(x)\)</p>
 <p>\[ f(x) \]</p>
