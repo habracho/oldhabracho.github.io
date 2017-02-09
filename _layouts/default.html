@@ -39,7 +39,15 @@
       
         <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
       
-              <ul>
+          
+      
+      <section>
+
+      {{ content }}
+
+      </section>
+      
+          <ul>
   {% for post in site.posts %}
      <li>
        <a href="{{ post.url }}">{{ post.title }}</a>
@@ -47,11 +55,6 @@
    {% endfor %}
  </ul>
       
-      <section>
-
-      {{ content }}
-
-      </section>
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
