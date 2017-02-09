@@ -35,6 +35,15 @@
           </ul>
         {% endif %}       
         
+        
+        <ul>
+ -  {% for post in site.posts %}
+ -    <li>
+ -      <a href="{{ post.url }}">{{ post.title }}</a>
+ -    </li>
+ -  {% endfor %}
+ -</ul>
+        
       </header>
       
         <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
